@@ -5,7 +5,7 @@ int main(void) {
   reload:
   scanf("%d", &a);
   if(a!=0){
-  	printf("%d\n", a);
-  	goto reload;
+    printf("%d\n", a);
+    goto reload;
   } 
 }
