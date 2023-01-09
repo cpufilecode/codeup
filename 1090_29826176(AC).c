@@ -6,7 +6,7 @@ int main()
 	scanf("%lld %lld %lld",&a,&b,&c);
 	
 	for(int j = 1; j <c; j++) {
-	    a*=b;
+		a*=b;
 	}
 	
 	printf("%lld",a);
