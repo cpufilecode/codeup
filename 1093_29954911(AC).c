@@ -3,11 +3,11 @@
 int main()
 {
 	int arr[24] = {0,};
- 
+
     int num;
     int num2;
     scanf("%d", &num);
- 
+
     for (int i = 1; i <= num; i++) {
         scanf("%d", &num2);
         arr[num2] += 1;
