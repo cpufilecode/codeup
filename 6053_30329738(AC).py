@@ -1,0 +1,1 @@
+﻿print(not(int(input())))
