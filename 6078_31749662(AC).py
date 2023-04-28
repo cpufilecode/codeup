@@ -1,5 +1,5 @@
 ﻿while True:
      x=input()
      print(x)
-     if x=='q':
+     if x =='q':
           break
